@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetroClean</string>
+    <string name="fetch_joke">Fetch Joke</string>
+</resources>
